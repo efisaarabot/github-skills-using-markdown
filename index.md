@@ -12,3 +12,7 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 ``` javascript
 var myVar = "Hello, you";
 ```
+
+- [x] List syntax is required
+- [x] Completed
+- [ ] TODO 
